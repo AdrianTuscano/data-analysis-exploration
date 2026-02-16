@@ -1,0 +1,31 @@
+ranking,Player,Team,PPG,Free throws made,Fouls Drawn,Drives,eFG%
+1,Luka Doncic,Lakers,32.8,8.5,7.8,14.2,0.554
+2,Shai Gilgeous-Alexander,Thunder,31.8,8.2,6.2,18.5,0.599
+3,Anthony Edwards,Timberwolves,29.8,5.8,4.6,11.4,0.575
+4,Jaylen Brown,Celtics,29.5,5.4,6.2,18.9,0.529
+5,Nikola Jokic,Nuggets,28.8,6.6,6.8,4,0.647
+6,Tyrese Maxey,76ers,28.8,5.4,4.1,13.1,0.547
+7,Donovan Mitchell,Cavaliers,28.8,5.1,4.7,14.4,0.574
+8,Giannis Antetokounmpo,Bucks,28,6.5,8.1,9.7,0.66
+9,Kawhi Leonard,Clippers,27.7,5.8,5,10.5,0.559
+10,Stephen Curry,Warriors,27.2,4.9,4.8,8,0.585
+11,Lauri Markkanen,Jazz,27.1,5.7,5.5,5.8,0.551
+12,Jalen Brunson,Knicks,27.1,4.9,5,14.6,0.541
+13,Austin Reaves,Lakers,26.6,7.2,5.9,12.4,0.589
+14,Kevin Durant,Rockets,26,5.4,5.1,9.3,0.57
+15,Jamal Murray,Nuggets,25.9,4.4,3.9,12.8,0.569
+16,Deni Avdija,Trail Blazers,25.5,7.6,6.7,19.6,0.529
+17,Devin Booker,Suns,25.4,6.9,6.4,15.6,0.503
+18,James Harden,Clippers,25.4,7.6,5.2,14.5,0.509
+19,Cade Cunningham,Pistons,25.1,5.7,5.3,16.4,0.512
+20,Michael Porter Jr.,Nets,25.1,3.7,3.5,5.5,0.568
+21,Keyonte George,Jazz,24.2,6.4,4.8,10.4,0.535
+22,Victor Wembanyama,Spurs,24.2,5.9,6.4,5.8,0.576
+23,Pascal Siakam,Pacers,23.7,4.1,5.1,12.8,0.53
+24,Jalen Johnson,Hawks,23.2,4.3,3.9,13.6,0.55
+25,Norman Powell,Heat,23,4.8,3.9,10.2,0.538
+26,Trey Murphy III,Pelicans,22.2,3.3,2.9,7.4,0.575
+27,Julius Randle,Timberwolves,22.2,5.1,4.5,10.1,0.54
+28,Brandon Ingram,Raptors,22.2,3.8,3.6,9.9,0.526
+29,LeBron James,Lakers,22,4.2,3.8,7.6,0.545
+30,Paolo Banchero,Magic,21.6,6,5.4,12.6,0.49
